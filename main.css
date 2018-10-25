@@ -1,0 +1,41 @@
+
+* { margin: 0; padding: 0;}
+
+/* body { 
+height:100%;
+background: linear-gradient(to right, rgb(243, 4, 252), rgb(12, 27, 231)); 
+color: white; 
+} */
+body{
+color: white;
+
+}
+
+#maindiv{
+margin-top: 200px;
+}
+
+#clock{
+font-size: 85px;
+margin:0 auto;
+text-align: center;
+}
+
+#hex{
+padding-top: 100px;
+font-size: 20px;
+}
+
+#maindiv{
+  font-family: 'Nanum Gothic';
+  font-size: 60px;
+}
+
+#top{
+  font-size: 45px;
+margin:0 auto;
+text-align: center;
+width: 930px;
+height: 100px;
+margin-bottom: 20px;
+}
